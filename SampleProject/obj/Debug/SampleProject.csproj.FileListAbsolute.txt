@@ -1,0 +1,43 @@
+c:\users\foobar\documents\visual studio 2015\Projects\SampleProject\SampleProject\bin\Debug\SampleProject.exe.config
+c:\users\foobar\documents\visual studio 2015\Projects\SampleProject\SampleProject\bin\Debug\SampleProject.exe
+c:\users\foobar\documents\visual studio 2015\Projects\SampleProject\SampleProject\bin\Debug\SampleProject.pdb
+c:\users\foobar\documents\visual studio 2015\Projects\SampleProject\SampleProject\bin\Debug\BulletSharp.dll
+c:\users\foobar\documents\visual studio 2015\Projects\SampleProject\SampleProject\bin\Debug\OpenTK.dll
+c:\users\foobar\documents\visual studio 2015\Projects\SampleProject\SampleProject\obj\Debug\SampleProject.exe
+c:\users\foobar\documents\visual studio 2015\Projects\SampleProject\SampleProject\obj\Debug\SampleProject.pdb
+C:\Users\foobar\documents\visual studio 2015\Projects\SampleProject\SampleProject\bin\Debug\content\funnyPony.png
+C:\Users\foobar\documents\visual studio 2015\Projects\SampleProject\SampleProject\bin\Debug\content\magicPony.png
+C:\Users\foobar\documents\visual studio 2015\Projects\SampleProject\SampleProject\obj\Debug\SampleProject.csprojResolveAssemblyReference.cache
+C:\MSHP\sapTemp\SampleProject\SampleProject\bin\Debug\SampleProject.exe.config
+C:\MSHP\sapTemp\SampleProject\SampleProject\obj\Debug\SampleProject.exe
+C:\MSHP\sapTemp\SampleProject\SampleProject\obj\Debug\SampleProject.pdb
+C:\MSHP\sapTemp\SampleProject\SampleProject\bin\Debug\content\funnyPony.png
+C:\MSHP\sapTemp\SampleProject\SampleProject\bin\Debug\content\magicPony.png
+C:\MSHP\sapTemp\SampleProject\SampleProject\bin\Debug\SampleProject.exe
+C:\MSHP\sapTemp\SampleProject\SampleProject\bin\Debug\SampleProject.pdb
+C:\MSHP\sapTemp\SampleProject\SampleProject\bin\Debug\BulletSharp.dll
+C:\MSHP\sapTemp\SampleProject\SampleProject\bin\Debug\OpenTK.dll
+C:\MSHP\sapTemp\SampleProject\SampleProject\bin\Debug\System.Net.Http.dll
+C:\MSHP\sapTemp\SampleProject\SampleProject\bin\Debug\System.Net.Http.xml
+C:\MSHP\sapTemp\SampleProject\SampleProject\bin\Debug\ru\System.Net.Http.resources.dll
+C:\MSHP\sapTemp\SampleProject\SampleProject\obj\Debug\SampleProject.csprojResolveAssemblyReference.cache
+C:\Users\foobar\Downloads\samples\SampleProject\SampleProject\bin\Debug\SampleProject.exe.config
+C:\Users\foobar\Downloads\samples\SampleProject\SampleProject\obj\Debug\SampleProject.exe
+C:\Users\foobar\Downloads\samples\SampleProject\SampleProject\obj\Debug\SampleProject.pdb
+C:\Users\foobar\Downloads\samples\SampleProject\SampleProject\bin\Debug\content\funnyPony.png
+C:\Users\foobar\Downloads\samples\SampleProject\SampleProject\bin\Debug\content\magicPony.png
+C:\Users\foobar\Downloads\samples\SampleProject\SampleProject\bin\Debug\SampleProject.exe
+C:\Users\foobar\Downloads\samples\SampleProject\SampleProject\bin\Debug\SampleProject.pdb
+C:\Users\foobar\Downloads\samples\SampleProject\SampleProject\bin\Debug\BulletSharp.dll
+C:\Users\foobar\Downloads\samples\SampleProject\SampleProject\bin\Debug\OpenTK.dll
+C:\Users\foobar\Downloads\samples\SampleProject\SampleProject\obj\Debug\SampleProject.csprojResolveAssemblyReference.cache
+C:\Users\foobar\Desktop\phisicsDemo\SampleProject\SampleProject\bin\Debug\SampleProject.exe.config
+C:\Users\foobar\Desktop\phisicsDemo\SampleProject\SampleProject\obj\Debug\SampleProject.exe
+C:\Users\foobar\Desktop\phisicsDemo\SampleProject\SampleProject\obj\Debug\SampleProject.pdb
+C:\Users\foobar\Desktop\phisicsDemo\SampleProject\SampleProject\bin\Debug\content\funnyPony.png
+C:\Users\foobar\Desktop\phisicsDemo\SampleProject\SampleProject\bin\Debug\content\magicPony.png
+C:\Users\foobar\Desktop\phisicsDemo\SampleProject\SampleProject\bin\Debug\SampleProject.exe
+C:\Users\foobar\Desktop\phisicsDemo\SampleProject\SampleProject\bin\Debug\SampleProject.pdb
+C:\Users\foobar\Desktop\phisicsDemo\SampleProject\SampleProject\bin\Debug\BulletSharp.dll
+C:\Users\foobar\Desktop\phisicsDemo\SampleProject\SampleProject\bin\Debug\OpenTK.dll
+C:\Users\foobar\Desktop\phisicsDemo\SampleProject\SampleProject\obj\Debug\SampleProject.csprojResolveAssemblyReference.cache
